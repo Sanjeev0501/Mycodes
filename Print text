@@ -1,0 +1,2 @@
+s=input('Enter word to print:')
+print(s)
